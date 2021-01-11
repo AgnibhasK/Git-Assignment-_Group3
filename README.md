@@ -1,5 +1,5 @@
 # Git-Assignment-_Group3
-Repository created for the purpose of Group Project.
+Repository created for the purpose of Group Assignment.
 
 Please find below the link for the Google Slides(PPT) that we prepared while doing this Assignment.
 
